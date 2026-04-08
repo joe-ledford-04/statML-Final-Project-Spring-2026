@@ -1,4 +1,4 @@
-# statML-Final-Project-Spring-2026
+# Statistical Machine Learning Final Project Spring 2026
 ### Data Source 
 The data for this project was provided by the UCI Machine Learning Repository. It is a culmination of three socio-economic datasets on communities within the United States: 
 * 1990 US Census
