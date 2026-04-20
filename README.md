@@ -13,6 +13,8 @@ The data for this project was provided by the UCI Machine Learning Repository. I
     - Only police deparments with at least 100 officers were used, plus a random sample of smaller deparments. 
 -  1995 FBI UCR
 
+https://archive.ics.uci.edu/dataset/183/communities+and+crime
+
 ### Target Variable
 - `ViolentCrimesPerPop` — normalized measure of violent crime rate
 
